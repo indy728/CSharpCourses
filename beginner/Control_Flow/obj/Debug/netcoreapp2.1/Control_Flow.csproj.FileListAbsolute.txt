@@ -1,0 +1,11 @@
+/Users/Marvin1/C#_class/Control_Flow/bin/Debug/netcoreapp2.1/Control_Flow.deps.json
+/Users/Marvin1/C#_class/Control_Flow/bin/Debug/netcoreapp2.1/Control_Flow.runtimeconfig.json
+/Users/Marvin1/C#_class/Control_Flow/bin/Debug/netcoreapp2.1/Control_Flow.runtimeconfig.dev.json
+/Users/Marvin1/C#_class/Control_Flow/bin/Debug/netcoreapp2.1/Control_Flow.dll
+/Users/Marvin1/C#_class/Control_Flow/bin/Debug/netcoreapp2.1/Control_Flow.pdb
+/Users/Marvin1/C#_class/Control_Flow/obj/Debug/netcoreapp2.1/Control_Flow.csprojAssemblyReference.cache
+/Users/Marvin1/C#_class/Control_Flow/obj/Debug/netcoreapp2.1/Control_Flow.csproj.CoreCompileInputs.cache
+/Users/Marvin1/C#_class/Control_Flow/obj/Debug/netcoreapp2.1/Control_Flow.AssemblyInfoInputs.cache
+/Users/Marvin1/C#_class/Control_Flow/obj/Debug/netcoreapp2.1/Control_Flow.AssemblyInfo.cs
+/Users/Marvin1/C#_class/Control_Flow/obj/Debug/netcoreapp2.1/Control_Flow.dll
+/Users/Marvin1/C#_class/Control_Flow/obj/Debug/netcoreapp2.1/Control_Flow.pdb

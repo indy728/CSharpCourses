@@ -1,0 +1,11 @@
+/Users/Marvin1/C#_class/Arrays_and_Lists/bin/Debug/netcoreapp2.1/Arrays_and_Lists.deps.json
+/Users/Marvin1/C#_class/Arrays_and_Lists/bin/Debug/netcoreapp2.1/Arrays_and_Lists.runtimeconfig.json
+/Users/Marvin1/C#_class/Arrays_and_Lists/bin/Debug/netcoreapp2.1/Arrays_and_Lists.runtimeconfig.dev.json
+/Users/Marvin1/C#_class/Arrays_and_Lists/bin/Debug/netcoreapp2.1/Arrays_and_Lists.dll
+/Users/Marvin1/C#_class/Arrays_and_Lists/bin/Debug/netcoreapp2.1/Arrays_and_Lists.pdb
+/Users/Marvin1/C#_class/Arrays_and_Lists/obj/Debug/netcoreapp2.1/Arrays_and_Lists.csprojAssemblyReference.cache
+/Users/Marvin1/C#_class/Arrays_and_Lists/obj/Debug/netcoreapp2.1/Arrays_and_Lists.csproj.CoreCompileInputs.cache
+/Users/Marvin1/C#_class/Arrays_and_Lists/obj/Debug/netcoreapp2.1/Arrays_and_Lists.AssemblyInfoInputs.cache
+/Users/Marvin1/C#_class/Arrays_and_Lists/obj/Debug/netcoreapp2.1/Arrays_and_Lists.AssemblyInfo.cs
+/Users/Marvin1/C#_class/Arrays_and_Lists/obj/Debug/netcoreapp2.1/Arrays_and_Lists.dll
+/Users/Marvin1/C#_class/Arrays_and_Lists/obj/Debug/netcoreapp2.1/Arrays_and_Lists.pdb

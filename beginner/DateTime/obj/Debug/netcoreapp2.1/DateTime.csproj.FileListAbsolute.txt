@@ -1,0 +1,11 @@
+/Users/Marvin1/C#_class/DateTime/obj/Debug/netcoreapp2.1/DateTime.csprojAssemblyReference.cache
+/Users/Marvin1/C#_class/DateTime/obj/Debug/netcoreapp2.1/DateTime.csproj.CoreCompileInputs.cache
+/Users/Marvin1/C#_class/DateTime/obj/Debug/netcoreapp2.1/DateTime.AssemblyInfoInputs.cache
+/Users/Marvin1/C#_class/DateTime/obj/Debug/netcoreapp2.1/DateTime.AssemblyInfo.cs
+/Users/Marvin1/C#_class/DateTime/bin/Debug/netcoreapp2.1/DateTime.deps.json
+/Users/Marvin1/C#_class/DateTime/bin/Debug/netcoreapp2.1/DateTime.runtimeconfig.json
+/Users/Marvin1/C#_class/DateTime/bin/Debug/netcoreapp2.1/DateTime.runtimeconfig.dev.json
+/Users/Marvin1/C#_class/DateTime/bin/Debug/netcoreapp2.1/DateTime.dll
+/Users/Marvin1/C#_class/DateTime/bin/Debug/netcoreapp2.1/DateTime.pdb
+/Users/Marvin1/C#_class/DateTime/obj/Debug/netcoreapp2.1/DateTime.dll
+/Users/Marvin1/C#_class/DateTime/obj/Debug/netcoreapp2.1/DateTime.pdb

@@ -1,0 +1,11 @@
+/Users/Marvin1/C#_class/Files/bin/Debug/netcoreapp2.1/Files.deps.json
+/Users/Marvin1/C#_class/Files/bin/Debug/netcoreapp2.1/Files.runtimeconfig.json
+/Users/Marvin1/C#_class/Files/bin/Debug/netcoreapp2.1/Files.runtimeconfig.dev.json
+/Users/Marvin1/C#_class/Files/bin/Debug/netcoreapp2.1/Files.dll
+/Users/Marvin1/C#_class/Files/bin/Debug/netcoreapp2.1/Files.pdb
+/Users/Marvin1/C#_class/Files/obj/Debug/netcoreapp2.1/Files.csprojAssemblyReference.cache
+/Users/Marvin1/C#_class/Files/obj/Debug/netcoreapp2.1/Files.csproj.CoreCompileInputs.cache
+/Users/Marvin1/C#_class/Files/obj/Debug/netcoreapp2.1/Files.AssemblyInfoInputs.cache
+/Users/Marvin1/C#_class/Files/obj/Debug/netcoreapp2.1/Files.AssemblyInfo.cs
+/Users/Marvin1/C#_class/Files/obj/Debug/netcoreapp2.1/Files.dll
+/Users/Marvin1/C#_class/Files/obj/Debug/netcoreapp2.1/Files.pdb

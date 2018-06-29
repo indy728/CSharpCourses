@@ -15,21 +15,20 @@ namespace Exercises
 
                 if (input == "start")
                 {
-                    if (DateTime.Compare(stopwatch.GetStart(), new DateTime()) != 0)
+                    if (stopwatch.GetRunning())
                         Console.WriteLine("Stopwatch has already been started!");
                     else
                         stopwatch.SetStart(); 
                 }
                 else if (input == "stop")
                 {
-                    if (DateTime.Compare(stopwatch.GetStart(), new DateTime()) == 0)
+                    if (!stopwatch.GetRunning())
                         Console.WriteLine("Stopwatch has not been started!");
                     else
                     {
                         stopwatch.SetStop();
-                        var duration = stopwatch.Duration;
+                        var duration = stopwatch.Duration();
                         Console.WriteLine("Time of of this lap is {0} minutes and {1} seconds.", duration.Minutes, duration.Seconds);
-                        stopwatch.Reset();
                     }
                 }
                 else if (input == "exit")
@@ -40,6 +39,26 @@ namespace Exercises
                 else
                     Console.WriteLine("Invalid input, try again.");
             }
+
+            // var post = new StackOverflow();
+
+            // post.Title = "How to properly use classes in C#";
+            // post.Description = "Hi\n\nI'm new to OOP and would like to know if I'm doing this right. Do I totally suck?";
+            
+            // post.GetPostDetails();
+            // Console.WriteLine("");
+
+            // for (var i = 0; i < 69; i++)
+            //     post.Upvote();
+
+            // post.GetPostDetails();
+            // Console.WriteLine("");
+
+            // for (var i = 0; i < 27; i++)
+            //     post.Downvote();
+
+            // post.GetPostDetails();
+            // Console.WriteLine("");
         }
     }
 }
